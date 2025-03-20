@@ -14,3 +14,6 @@ Attempt to find all keysets within Hyperion's dll and use to dump any found func
 
 ## Writeup
 https://x64.gg/t/reversing-a-lazy-importer/93
+
+## Use
+Change https://github.com/godfearingman/lazy_deporter/blob/main/src/lazy_deporter/lazy_deporter.cpp#L5 to the path of your hyperion dll
